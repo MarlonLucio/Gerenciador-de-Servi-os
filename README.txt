@@ -1,7 +1,7 @@
 Espero que você esteja bem independente do momento
 
 Quero dar algumas informações, caso fique perdido, eu acho que esse arquivo README pode dar um certo norte, então primeiro
-com a principal informação;
+com as principais informações;
 
 Disciplina: Dispositivos Móveis
 Nome: Marlon Lucio Gonçalves
