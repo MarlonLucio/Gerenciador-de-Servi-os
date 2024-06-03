@@ -13,6 +13,7 @@ todos eles podem ser encontrados na pasta "scr"
 
 2° - Não fiz questão de comentar outro além do JS, então o HTML e CSS não estão comentados.
 
-3° - Bem, você é meu professor, é muito mais experiênciado que eu, mas por desencargo de consciência, caso queira testar o programa,  vá na pasta pelo prompt de comando onde o arquivo foi baixado C:\...\Downloads\Gerenciador-de-Servi-os-main\Gerenciador-de-Servi-os-main e use "npm start" para testar a aplicação.
+3° - Bem, você é meu professor, é muito mais experiênciado que eu, mas por desencargo de consciência, caso queira testar o programa, vá na pasta pelo 
+prompt de comando onde o arquivo foi baixado C:\...\Downloads\Gerenciador-de-Servi-os-main\Gerenciador-de-Servi-os-main e use "npm start" para testar a aplicação.
 
 Desde já eu agradeço muito.
